@@ -26,3 +26,8 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+#dumb stupid dumb files that I hate
+2Dun2Gen.py
+Complete DungeonGame.py
+Clean DungeonGame.py
